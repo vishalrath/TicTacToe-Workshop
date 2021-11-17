@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.exe
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.deps.json
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.runtimeconfig.json
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.dll
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\ref\TicTacToeGameWork.dll
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\bin\Debug\net5.0\TicTacToeGameWork.pdb
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.dll
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\ref\TicTacToeGameWork.dll
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.pdb
+C:\Users\Vishal\source\repos\TicTacToeGameWork\TicTacToeGameWork\obj\Debug\net5.0\TicTacToeGameWork.genruntimeconfig.cache
