@@ -10,6 +10,9 @@ namespace TicTacToeGameWork
             TicTacToeGame obj = new TicTacToeGame();
             obj.CreateBoard();
 
+            TicTacToeGame obj1 = new TicTacToeGame();
+            obj1.SelectLetter();
+            Console.ReadLine();
         }
     }
 }
